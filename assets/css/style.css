@@ -1,0 +1,79 @@
+html{
+    background: url('justice.jpg')no-repeat center center;
+ }
+h1 {
+    font-family:'Helvecta', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 15px;
+}
+li {
+    font-family:'Helvecta', sans-serif;
+    font-size: 27px;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+}
+ .triviaContainer {
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    padding-top: 5px;
+    position: relative;
+    margin-top: 150px;
+}
+.nextButton {
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color: blue;
+    color: red;
+    font-family:'Helvecta', sans-serif;
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
+    margin-top: 15px;
+}
+.question {
+    font-family:'Helvecta', sans-serif;
+    font-size: 2em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    background-color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+.triviaNotification {
+    background-color: black;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    font-family:'Helvecta', sans-serif;
+    color: red;
+}
+.timer{
+    font-size: 28px;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 44px;
+    margin-top: 15px
+}
+.choiceList {
+    font-family: 'Helvecta', sans-serif;
+    color: black;
+    margin-top: 15px;
+    margin-left: 41px;
+}
+.result {
+    width: 30%;
+    height: auto;
+    background-color: lightgrey;
+    margin: auto;
+    text-align: center;
+    font-family:'Helvecta', sans-serif;
+}
